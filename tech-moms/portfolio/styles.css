@@ -1,0 +1,159 @@
+header {
+    background-color: rgb (41, 95, 202);
+
+}
+
+.headercontainer {
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 0%;
+    padding-right: 40px;
+    height: 150px;
+}
+
+.begname {
+    font-family: fantasy;
+    font-size: xxx-l;
+    color: white;
+
+}
+
+
+.Listone {
+    font-family: sans-serif;
+    font-size: x-large;
+    color: white;
+
+}
+
+
+
+
+.navbar {
+    margin-top: 90px;
+    height: 120px;
+    padding: 20px;
+}
+
+a {
+    margin-right: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+
+    justify-self: center;
+    align-items: center;
+
+}
+
+main {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid;
+    color: black;
+    height: 75vh;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.box1 {
+    width: 400px;
+    height: 200px;
+    font-size: 45px;
+    text-align: center;
+    background-color: rgb(243, 243, 156);
+
+
+}
+
+.box2 {
+    width: 400px;
+    height: 200px;
+    font-size: 45px;
+    text-align: center;
+    background-color: rgb(7, 246, 234);
+
+
+}
+
+.box3 {
+    width: 400px;
+    height: 200px;
+    font-size: 45px;
+    text-align: center;
+    background-color: rgb(138, 140, 226);
+
+}
+
+.box4 {
+    width: 400px;
+    height: 200px;
+    font-size: 45px;
+    text-align: center;
+    background-color: peachpuff;
+
+}
+
+]
+/*.intro {
+        max-width: 500px;
+        text-align: left;
+        font-size: xx-large;
+    }*/
+
+body {
+    background-color: rgb(122, 128, 128);
+    color: rgb(167, 165, 168);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.stupidlist {
+    column-fill: balance;
+    display: inline-block;
+    text-align: center;
+    color: rgb(44, 44, 44);
+}
+
+footer {
+
+    background-color: #717473;
+
+    height: 100px;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 6cm;
+    padding: 40px;
+    text-decoration: none;
+    color: white;
+
+
+
+}
+
+.homelogo {
+    height: 50px;
+
+}
+
+
+.inlogo {
+    height: 50px;
+}
+
+
+/*.link {
+    color: white;
+    text-decoration: none;*/
