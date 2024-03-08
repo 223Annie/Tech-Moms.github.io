@@ -1,5 +1,5 @@
 header {
-    background-color: #219ebc;
+    background-color: #57b8bc;
     margin: 0;
     padding: 0;
     color: #023047;
@@ -18,61 +18,38 @@ header {
     font-size: xxx-large;
     color: #023047;
     text-align: center;
+    padding-top: 10px;
     width: 100%;
 
 }
 
 .Listone {
-    font-family: sans-serif;
-    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
     color: #023047;
     text-align: center;
 
 }
 
 .List2 {
-    font-family: sans-serif;
+    font-family: fantasy;
     font-size: x-large;
     color: #023047;
     text-align: center;
 
 }
 
-a {
+.a {
 
     text-decoration: none;
-    color: white;
+    color: #023047;
+    font-family: Verdana, Geneva, Tahoma;
 }
 
-
-/*
-.navbar {
-    margin-top: 90px;
-    height: 120px;
-    padding: 20px;
+.header.a {
+    background-color: rgb(110, 215, 218);
 }
 
-a {
-    margin-right: 50px;
-    text-decoration: none;
-    color: white;
-}
-
-.title {
-
-    justify-self: center;
-    align-items: center;
-
-}
-*/
-
-main {
-    margin: 0;
-    padding: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    box-sizing: border-box;
-
-}
 
 .flex-container {
     display: flex;
@@ -81,6 +58,7 @@ main {
     color: black;
     height: 75vh;
     flex-wrap: wrap;
+    padding-top: 75px;
 
 
 }
@@ -90,7 +68,7 @@ main {
     height: 200px;
     font-size: 45px;
     text-align: center;
-    background-color: #8ecae6;
+    background-color: rgb(110, 215, 218);
     text-decoration: none;
 
 
@@ -103,8 +81,16 @@ main {
     height: 200px;
     font-size: 45px;
     text-align: center;
-    background-color: #219ebc;
+    background-color: rgb(65, 149, 173);
     text-decoration: none;
+
+
+}
+
+.wesec {
+    background-color: rgb(65, 149, , 173);
+    font-size: xx-large;
+    text-align: center;
 
 
 }
@@ -114,7 +100,7 @@ main {
     height: 200px;
     font-size: 45px;
     text-align: center;
-    background-color: #023047;
+    background-color: rgb(42, 107, 108);
     text-decoration: none;
 
 }
@@ -124,39 +110,44 @@ main {
     height: 200px;
     font-size: 45px;
     text-align: center;
-    background-color: #fb8500;
+    background-color: rgb(20, 69, 108);
     text-decoration: none;
 
 }
 
-]
-/*.intro {
-        max-width: 500px;
-        text-align: left;
-        font-size: xx-large;
-    }*/
+
 
 body {
-    background-color: rgb(122, 128, 128);
-    color: rgb(167, 165, 168);
+    background-color: whitesmoke;
+    color: rgb(#023047);
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     font-size: xx-large;
 }
 
 .stupidlist {
-    column-fill: balance;
-    display: inline-block;
+    font-size: xx-large;
     text-align: center;
     color: rgb(44, 44, 44);
+
 }
+
+.skillsintro {
+    font-size: x-large;
+    color: #023047;
+    text-align: center;
+    background-color: whitesmoke;
+
+}
+
+
 
 footer {
 
     background-color: #717473;
 
     height: 75px;
-    font-size: xx-large;
+    font-size: x-large;
     color: #023047;
     text-align: center;
     padding: 40px;
@@ -177,8 +168,3 @@ footer {
 .inlogo {
     height: 50px;
 }
-
-
-/*.link {
-    color: white;
-    text-decoration: none;*/

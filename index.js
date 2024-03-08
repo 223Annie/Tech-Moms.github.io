@@ -1,4 +1,4 @@
-const red = 105;
+//const red = 105;
 const green = 197;
 const blue = 197;
 
